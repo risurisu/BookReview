@@ -14,6 +14,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'taps', '~> 0.3.24'
 gem 'pg'
+ruby "2.3.0"
 
 
 group :development, :test do
